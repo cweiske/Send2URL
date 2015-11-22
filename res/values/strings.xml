@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Send2URL</string>
+	<string name="app_name">Play on Dreambox</string>
 	<string name="prefsactivity">Send2URL Settings</string>
 	<string name="sendingactivity">Sending to URL...</string>
 	<string name="EnterServerURL">Enter the server URL</string>
