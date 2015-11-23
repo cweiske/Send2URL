@@ -1,6 +1,5 @@
-package com.github.matgoebl.send2url;
+package de.cweiske.playVideoOnDreambox;
 
-import com.github.matgoebl.send2url.R;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 

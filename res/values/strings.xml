@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Play on Dreambox</string>
-	<string name="prefsactivity">Send2URL Settings</string>
-	<string name="sendingactivity">Sending to URL...</string>
-	<string name="EnterServerURL">Enter the server URL</string>
-	<string name="ServerURL">Set server URL</string>
-	<string name="ServerURLDefault">https://user:pass@server.example.com:1234/path/</string>
-	<string name="SendSuccess">Successfully sent to URL</string>
-	<string name="SendFailed">Error sending to URL</string>
+	<string name="app_name">Play video on Dreambox</string>
+	<string name="prefsactivity">playVideoOnDreambox Settings</string>
+	<string name="sendingactivity">Sending video to Dreambox</string>
+	<string name="EnterServerURL">Enter video proxy server URL</string>
+	<string name="ServerURL">Set video proxy server URL</string>
+	<string name="ServerURLDefault">http://example.com/play.php</string>
+	<string name="SendSuccess">Successfully sent video to Dreambox</string>
+	<string name="SendFailed">Error sending video to Dreambox</string>
 	<string name="UnknownType">Unknown content type</string>
 	<string name="About">About</string>
 	<string name="AboutInfo">
 	This app adds an entry to the android share menu.
-	When you share any content (e.g. a picture from the gallery) with "Send2URL" it will be uploaded to the configured server URL using a HTTP POST request.
+	When you share the browser\'s URL, the video embedded in the page will be played on your Dreambox
+	satellite receiver.
+	Requires the playVideoOnDreamboxProxy server application.
 	</string>
 </resources>
