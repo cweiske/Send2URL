@@ -1,11 +1,12 @@
 **********************************
 Play video on Dreambox for Android
-***********************************
+**********************************
+
+Send videos from your phone's browser to dreambox satellite receiver.
 
 This app adds an entry to the android browser's share menu.
-It sends the URL to a configurable
-`playVideoOnDreambox proxy`__ server, which instructs your Dreambox to play
-the video.
+It sends the URL to a configurable `playVideoOnDreambox proxy`__ server,
+which instructs your Dreambox to play the video.
 
 With this, you can browse youtube or other video sites and play the videos on your
 satellite receiver.
